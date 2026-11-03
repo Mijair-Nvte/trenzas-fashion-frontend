@@ -3,11 +3,11 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState } from "react";
-import { ShoppingCart, ArrowRight, Check, Clock, Phone, Mail } from "lucide-react";
+import { ShoppingCart, ArrowRight, Check, Clock, Phone, Mail,MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useCartStore } from "@/store/cartStore";
 import products from "@/data/products.json";
-import services from "@/data/services.json";
+import servicesData from "@/data/services.json";
 import { GallerySection } from "@/components/GallerySection";
 import { ReviewsSection } from "@/components/ReviewsSection";
 import { SectionTwo } from "@/components/SectionTwo";
@@ -28,12 +28,10 @@ type Service = {
   id: number;
   name: string;
   slug: string;
-  icon: string;
-  duration: string;
-  price: string;
   description: string;
-  includes: string[];
 };
+
+const services = servicesData as Service[];
 
 type GalleryItem = {
   id: number;
@@ -56,8 +54,12 @@ const GALLERY_CATEGORIES = [
 
 
 
-// ── Services ──────────────────────────────────────────────────────────────
-function ServicesSection() {
+
+
+// Tu número de WhatsApp configurado
+const WHATSAPP_NUMBER = "529842072150";
+
+export function ServicesSection() {
   return (
     <section id="services" className="py-20 bg-black text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -67,29 +69,39 @@ function ServicesSection() {
         <p className="text-4xl font-black uppercase tracking-tighter text-white mb-12 max-w-xl">
           Lo que hacemos por ti
         </p>
+
+        {/* Grid de servicios simplificado */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-px bg-gray-800">
-          {(services as Service[]).map((svc) => (
-            <div key={svc.id} className="bg-black p-8 flex flex-col gap-4">
-              <div className="flex items-start justify-between">
-                <h3 className="text-lg font-bold">{svc.name}</h3>
-                <span className="text-xs text-gray-400 font-mono ml-2 shrink-0">
-                  {svc.price}
-                </span>
+          {services.map((svc) => {
+            // Pre-armamos el mensaje de WhatsApp para que sea automático
+            const whatsappMessage = encodeURIComponent(
+              `Hola, me interesa solicitar una cotización o más información sobre el servicio de: ${svc.name}`
+            );
+            const whatsappLink = `https://wa.me/${WHATSAPP_NUMBER}?text=${whatsappMessage}`;
+
+            return (
+              <div key={svc.id} className="bg-zinc-900 p-8 flex flex-col gap-4 border border-zinc-800 transition-colors hover:bg-zinc-800/50">
+                <h3 className="text-xl font-bold tracking-tight text-white">
+                  {svc.name}
+                </h3>
+                
+                <p className="text-sm text-gray-400 leading-relaxed flex-1">
+                  {svc.description}
+                </p>
+
+                {/* Botón de acción directo a WhatsApp */}
+                <a
+                  href={whatsappLink}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="mt-6 inline-flex items-center justify-center gap-2 w-full bg-white text-black hover:bg-gray-200 transition-colors py-3 px-4 text-xs font-bold uppercase tracking-widest"
+                >
+                  <MessageCircle className="h-4 w-4" />
+                  Cotizar por WhatsApp
+                </a>
               </div>
-              <p className="text-sm text-gray-400 leading-relaxed">
-                {svc.description}
-              </p>
-              <ul className="mt-auto space-y-1">
-                {svc.includes.map((item) => (
-                  <li key={item} className="flex gap-2 items-center text-xs text-gray-500">
-                    <Check className="h-3 w-3 text-gray-400 flex-shrink-0" />
-                    {item}
-                  </li>
-                ))}
-              </ul>
-              <p className="text-xs text-gray-600 mt-2">⏱ {svc.duration}</p>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </div>
     </section>

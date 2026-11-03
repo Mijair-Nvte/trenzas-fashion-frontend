@@ -3,50 +3,30 @@
     "id": 1,
     "name": "Aplicación de Keratina",
     "slug": "keratina",
-    "icon": "sparkles",
-    "duration": "3-4 horas",
-    "price": "Desde $80",
-    "description": "Tratamiento de alisado progresivo con keratina que elimina el frizz, aporta brillo y suavidad por hasta 6 meses. Ideal para todo tipo de cabello.",
-    "includes": ["Lavado inicial", "Aplicación de fórmula", "Sellado con plancha", "Cabello liso y brillante"]
+    "description": "Tratamiento de alisado progresivo con keratina que elimina el frizz, aporta brillo y suavidad. Ideal para todo tipo de cabello."
   },
   {
     "id": 2,
     "name": "Aplicación de Trenzas",
     "slug": "trenzas",
-    "icon": "layers",
-    "duration": "4-8 horas",
-    "price": "Desde $80",
-    "description": "Instalación profesional de trenzas: box braids, knotless, cornrows, twists y más. Utilizamos técnicas que protegen el cuero cabelludo y maximizan la duración.",
-    "includes": ["Lavado y acondicionado", "Trenzado profesional", "Sellado de puntas", "Cuidado del cuero cabelludo"]
+    "description": "Instalación profesional de trenzas: box braids, knotless, cornrows, twists y más. Utilizamos técnicas que protegen el cuero cabelludo."
   },
   {
     "id": 3,
     "name": "Aplicación de Pestañas",
     "slug": "pestanas",
-    "icon": "eye",
-    "duration": "1.5-2 horas",
-    "price": "Desde $45",
-    "description": "Extensiones de pestañas pelo a pelo, volumen ruso o efecto natural. Materiales hipoalergénicos premium. Duración 3-4 semanas con mantenimiento correcto.",
-    "includes": ["Limpieza previa", "Aplicación individual", "Sellado con adhesivo médico", "Instrucciones de cuidado"]
+    "description": "Extensiones de pestañas con efecto natural o volumen. Utilizamos materiales premium para realzar tu mirada de forma segura."
   },
   {
     "id": 4,
-    "name": "Aplicación de Extensiones Humanas",
+    "name": "Aplicación de Extensiones",
     "slug": "extensiones-humanas",
-    "icon": "scissors",
-    "duration": "2-5 horas",
-    "price": "Desde $120",
-    "description": "Instalación de extensiones de cabello 100% humano mediante técnicas clip-in, tape-in, keratin bond o sew-in. Resultado natural e imperceptible.",
-    "includes": ["Consulta de color y textura", "Preparación del cabello", "Instalación con técnica elegida", "Corte de nivelación opcional"]
+    "description": "Instalación de extensiones de cabello 100% humano mediante diversas técnicas para un resultado completamente natural e imperceptible."
   },
   {
     "id": 5,
     "name": "Pedicura y Manicure",
     "slug": "pedicura-manicure",
-    "icon": "hand",
-    "duration": "1-2 horas",
-    "price": "Desde $35",
-    "description": "Servicio completo de cuidado de uñas con esmaltado clásico, semipermanente o gel. Incluye exfoliación, hidratación profunda y masaje relajante.",
-    "includes": ["Baño e hidratación", "Corte y limado", "Cutículas", "Esmaltado a elección"]
+    "description": "Servicio completo de cuidado de uñas con hidratación profunda y esmaltado a elección para lucir manos y pies impecables."
   }
 ]
