@@ -10,7 +10,6 @@ import { ShoppingBag, Trash2, MessageCircle } from "lucide-react";
 import { useState } from "react";
 
 // ── Número de WhatsApp del negocio ─────────────────────────────────────────
-// +52 984 207 2150  →  sin espacios ni '+'
 const WHATSAPP_NUMBER = "529842072150";
 
 // ── Esquema de validación ──────────────────────────────────────────────────
@@ -31,14 +30,19 @@ const schema = z.object({
 type FormData = z.infer<typeof schema>;
 
 // ── Generador del mensaje de WhatsApp ──────────────────────────────────────
-function buildWhatsAppMessage(data: FormData, items: ReturnType<typeof useCartStore.getState>["items"], total: number): string {
+function buildWhatsAppMessage(
+  data: FormData,
+  items: ReturnType<typeof useCartStore.getState>["items"],
+  total: number,
+  orderId?: number
+): string {
   const lines: string[] = [
-    "🛒 *Nuevo Pedido – TrenzasFashion*",
+    orderId ? `🛒 *Nuevo Pedido #${orderId} – TrenzasFashion*` : "🛒 *Nuevo Pedido – TrenzasFashion*",
     "─────────────────────",
     "📋 *Productos:*",
     ...items.map(
       ({ product, quantity }) =>
-        `  • ${quantity}x ${product.name} – $${(product.price * quantity).toFixed(2)}`
+        `  • ${quantity}x ${product.name} – $${(Number(product.price) * quantity).toFixed(2)}`
     ),
     "─────────────────────",
     `💰 *Total: $${total.toFixed(2)}*`,
@@ -74,40 +78,45 @@ export default function CheckoutPage() {
     if (items.length === 0) return;
     setSubmitting(true);
 
-    try {
-      // 1. Guardar pedido como backup en orders.txt
-      const order = {
-        timestamp: new Date().toISOString(),
-        customer: data,
-        items: items.map(({ product, quantity }) => ({
-          id: product.id,
-          name: product.name,
-          price: product.price,
-          quantity,
-          subtotal: product.price * quantity,
-        })),
-        total,
-      };
+    let createdOrderId: number | undefined;
 
-      await fetch("/api/save-order", {
+    try {
+      // 1. Crear la orden automáticamente en WooCommerce (WordPress) vía nuestra API
+      const response = await fetch("/api/create-order", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(order),
+        body: JSON.stringify({
+          items: items,
+          customer: {
+            name: data.name,
+            address: data.address,
+            phone: data.phone,
+            notes: data.notes || "",
+          },
+        }),
       });
-    } catch {
-      // El backup es opcional; no bloqueamos si falla
-      console.warn("No se pudo guardar el pedido en el servidor.");
+
+      const result = await response.json();
+
+      if (result.success && result.orderId) {
+        createdOrderId = result.orderId;
+      } else {
+        console.warn("No se pudo registrar la orden en WooCommerce:", result.error);
+      }
+    } catch (error) {
+      // Si falla la red con WooCommerce, no bloqueamos al cliente y continuamos con WhatsApp
+      console.error("Error al conectar con la API de órdenes:", error);
     }
 
-    // 2. Construir URL de WhatsApp y abrir conversación
-    const message = buildWhatsAppMessage(data, items, total);
+    // 2. Construir URL de WhatsApp incluyendo el ID de la orden generada en WordPress
+    const message = buildWhatsAppMessage(data, items, total, createdOrderId);
     const encoded = encodeURIComponent(message);
     const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encoded}`;
 
-    // Abrir en nueva pestaña
+    // 3. Abrir WhatsApp en nueva pestaña
     window.open(waUrl, "_blank", "noopener,noreferrer");
 
-    // 3. Limpiar carrito
+    // 4. Limpiar carrito y restablecer estado
     clearCart();
     setSubmitting(false);
   }
@@ -262,12 +271,12 @@ export default function CheckoutPage() {
                     <div className="flex-1 min-w-0">
                       <p className="text-xs font-semibold line-clamp-2">{product.name}</p>
                       <p className="text-xs text-gray-500 mt-0.5">
-                        {quantity} × ${product.price}
+                        {quantity} × ${Number(product.price)}
                       </p>
                     </div>
                     <div className="flex flex-col items-end gap-1">
                       <p className="text-xs font-black">
-                        ${(product.price * quantity).toFixed(2)}
+                        ${(Number(product.price) * quantity).toFixed(2)}
                       </p>
                       <button
                         type="button"
@@ -299,14 +308,11 @@ export default function CheckoutPage() {
               className="w-full flex items-center justify-center gap-3 bg-green-600 hover:bg-green-700 disabled:opacity-60 text-white h-14 text-sm font-bold uppercase tracking-widest transition-colors"
             >
               <MessageCircle className="h-5 w-5" />
-              {submitting ? "Preparando pedido…" : "Enviar pedido por WhatsApp"}
+              {submitting ? "Registrando pedido…" : "Enviar pedido por WhatsApp"}
             </button>
 
             <p className="text-[10px] text-gray-400 text-center leading-relaxed">
-              Al hacer clic serás redirigido a WhatsApp con tu pedido pre-formateado.
-              El número{" "}
-              <strong className="text-gray-600">+52 984 207 2150</strong>{" "}
-              recibirá tu solicitud.
+              Al hacer clic se registrará la orden en el sistema y serás redirigido a WhatsApp con tu pedido pre-formateado.
             </p>
 
             <Link

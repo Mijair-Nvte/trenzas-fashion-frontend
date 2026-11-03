@@ -7,6 +7,7 @@ export type Product = {
   price: number;
   category: string;
   image: string;
+  gallery?: string[]; // Añadido para soportar múltiples imágenes de WooCommerce
   description: string;
 };
 
@@ -74,5 +75,5 @@ export const useCartStore = create<CartStore>((set, get) => ({
   totalItems: () => get().items.reduce((sum, i) => sum + i.quantity, 0),
 
   totalPrice: () =>
-    get().items.reduce((sum, i) => sum + i.product.price * i.quantity, 0),
+    get().items.reduce((sum, i) => sum + Number(i.product.price) * i.quantity, 0),
 }));
