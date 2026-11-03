@@ -8,6 +8,7 @@ import {
   SheetContent,
   SheetHeader,
   SheetTitle,
+  SheetFooter,
 } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
@@ -25,6 +26,8 @@ export default function CartSheet({ open, onClose }: CartSheetProps) {
   return (
     <Sheet open={open} onOpenChange={onClose}>
       <SheetContent className="w-full sm:max-w-md flex flex-col bg-white border-l border-black p-0">
+        
+        {/* Cabecera del Carrito */}
         <SheetHeader className="px-6 py-5 border-b border-gray-200">
           <SheetTitle className="text-lg font-black uppercase tracking-wide flex items-center gap-2">
             <ShoppingCart className="h-5 w-5" />
@@ -46,7 +49,7 @@ export default function CartSheet({ open, onClose }: CartSheetProps) {
           </div>
         ) : (
           <>
-            {/* Items */}
+            {/* Lista de Productos */}
             <div className="flex-1 overflow-y-auto px-6 py-4 space-y-4">
               {items.map(({ product, quantity }) => (
                 <div key={product.id} className="flex gap-3 items-start">
@@ -68,15 +71,13 @@ export default function CartSheet({ open, onClose }: CartSheetProps) {
                       ${product.price}
                     </p>
 
-                    {/* Quantity Controls */}
+                    {/* Controles de Cantidad */}
                     <div className="flex items-center gap-2 mt-2">
                       <Button
                         variant="outline"
                         size="icon-sm"
                         className="border-gray-300"
-                        onClick={() =>
-                          updateQuantity(product.id, quantity - 1)
-                        }
+                        onClick={() => updateQuantity(product.id, quantity - 1)}
                         aria-label="Restar"
                       >
                         <Minus className="h-3 w-3" />
@@ -88,9 +89,7 @@ export default function CartSheet({ open, onClose }: CartSheetProps) {
                         variant="outline"
                         size="icon-sm"
                         className="border-gray-300"
-                        onClick={() =>
-                          updateQuantity(product.id, quantity + 1)
-                        }
+                        onClick={() => updateQuantity(product.id, quantity + 1)}
                         aria-label="Sumar"
                       >
                         <Plus className="h-3 w-3" />
@@ -98,6 +97,7 @@ export default function CartSheet({ open, onClose }: CartSheetProps) {
                     </div>
                   </div>
 
+                  {/* Precio Total por Item y Eliminar */}
                   <div className="flex flex-col items-end gap-2">
                     <p className="text-sm font-bold">
                       ${(product.price * quantity).toFixed(2)}
@@ -116,13 +116,13 @@ export default function CartSheet({ open, onClose }: CartSheetProps) {
               ))}
             </div>
 
-            {/* Footer */}
-            <div className="border-t border-gray-200 px-6 py-5 space-y-4">
-              <Separator className="bg-gray-100" />
-              <div className="flex justify-between items-center">
+            {/* Footer del Carrito usando el componente de Shadcn */}
+            <SheetFooter className="border-t border-gray-200 px-6 py-5 flex flex-col gap-4 sm:flex-col sm:space-x-0">
+              <div className="flex justify-between items-center w-full">
                 <span className="text-sm font-medium uppercase tracking-wide">Total</span>
                 <span className="text-lg font-black">${total.toFixed(2)}</span>
               </div>
+              
               <Link
                 href="/checkout"
                 onClick={onClose}
@@ -130,7 +130,7 @@ export default function CartSheet({ open, onClose }: CartSheetProps) {
               >
                 Ir al Checkout →
               </Link>
-            </div>
+            </SheetFooter>
           </>
         )}
       </SheetContent>
