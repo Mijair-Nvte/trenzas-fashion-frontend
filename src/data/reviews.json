@@ -1,0 +1,30 @@
+[
+    {
+        "name": "María G.",
+        "role": "Cliente frecuente",
+        "text": "Las box braids quedaron perfectas, duraderas y el trato fue excelente. 100% recomendado.",
+        "stars": 1,
+        "avatar": "/trenzas-braids/1.jpg"
+    },
+    {
+        "name": "Camila R.",
+        "role": "Cliente verificado",
+        "text": "Me hicieron una peluca afro increíble. Super natural, parece mi propio cabello. Regreso siempre.",
+        "stars": 2,
+        "avatar": "/reviews/1.jpg"
+    },
+    {
+        "name": "Sofía M.",
+        "role": "Cliente verificado",
+        "text": "Las extensiones de keratina dejaron mi cabello liso y brillante por meses. Un antes y un después.",
+        "stars": 3,
+        "avatar": "/reviews/2.jpg"
+    },
+    {
+        "name": "Valentina P.",
+        "role": "Cliente frecuente",
+        "text": "Las pestañas me duraron más de 4 semanas con el cuidado indicado. Profesionales.",
+        "stars": 4,
+        "avatar": "/reviews/4.jpg"
+    }
+]

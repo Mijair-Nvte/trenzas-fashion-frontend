@@ -1,0 +1,2 @@
+{"timestamp":"2026-11-03T00:07:22.971Z","customer":{"name":"Test ","address":"Mecatlan, Hidalgo,Mexico","phone":"+528123709351","notes":""},"items":[{"id":1667,"name":"Extensiones curly sintéticas XL 28","price":199,"quantity":2,"subtotal":398}],"total":398}
+{"timestamp":"2026-11-03T00:10:39.316Z","customer":{"name":"Test ","address":"Mecatlan, Hidalgo,Mexico","phone":"+528123709351","notes":""},"items":[{"id":1673,"name":"Accesorios para trenzas africanas","price":20,"quantity":1,"subtotal":20}],"total":20}

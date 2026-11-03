@@ -1,0 +1,166 @@
+[
+  {
+    "category": "extensiones-humanas",
+    "title": "Extensiones humanas",
+    "images": [
+      {
+        "id": 1,
+        "src": "/extensiones-humanas/1.jpeg",
+        "alt": "Extensiones humanas - Imagen 1"
+      },
+      {
+        "id": 2,
+        "src": "/extensiones-humanas/2.jpeg",
+        "alt": "Extensiones humanas - Imagen 2"
+      },
+      {
+        "id": 3,
+        "src": "/extensiones-humanas/3.jpeg",
+        "alt": "Extensiones humanas - Imagen 3"
+      },
+      {
+        "id": 4,
+        "src": "/extensiones-humanas/4.jpeg",
+        "alt": "Extensiones humanas - Imagen 4"
+      }
+    ]
+  },
+  {
+    "category": "trenzas-africanas",
+    "title": "Trenzas africanas",
+    "images": [
+      {
+        "id": 1,
+        "src": "/trenzas-africanas/1.jpeg",
+        "alt": "Trenzas africanas - Imagen 1"
+      },
+      {
+        "id": 2,
+        "src": "/trenzas-africanas/2.jpeg",
+        "alt": "Trenzas africanas - Imagen 2"
+      }
+    ]
+  },
+  {
+    "category": "trenzas-braids",
+    "title": "Trenzas Braids",
+    "images": [
+      {
+        "id": 7,
+        "src": "/trenzas-braids/1.jpg",
+        "alt": "Trenzas Braids - Imagen 1"
+      },
+      {
+        "id": 8,
+        "src": "/trenzas-braids/2.jpg",
+        "alt": "Trenzas Braids - Imagen 2"
+      },
+      {
+        "id": 9,
+        "src": "/trenzas-braids/3.jpg",
+        "alt": "Trenzas Braids - Imagen 3"
+      },
+      {
+        "id": 10,
+        "src": "/trenzas-braids/4.jpg",
+        "alt": "Trenzas Braids - Imagen 4"
+      },
+      {
+        "id": 11,
+        "src": "/trenzas-braids/5.jpg",
+        "alt": "Trenzas Braids - Imagen 5"
+      },
+      {
+        "id": 12,
+        "src": "/trenzas-braids/6.jpg",
+        "alt": "Trenzas Braids - Imagen 6"
+      },
+      {
+        "id": 13,
+        "src": "/trenzas-braids/7.jpg",
+        "alt": "Trenzas Braids - Imagen 7"
+      },
+      {
+        "id": 14,
+        "src": "/trenzas-braids/8.jpeg",
+        "alt": "Trenzas Braids - Imagen 8"
+      },
+      {
+        "id": 15,
+        "src": "/trenzas-braids/9.jpeg",
+        "alt": "Trenzas Braids - Imagen 9"
+      }
+    ]
+  },
+  {
+    "category": "trenzas-metodo-crochet",
+    "title": "Trenzas método crochet",
+    "images": [
+      {
+        "id": 1,
+        "src": "/trenzas-metodo-crochet/1.jpeg",
+        "alt": "Trenzas método crochet - Imagen 1"
+      },
+      {
+        "id": 2,
+        "src": "/trenzas-metodo-crochet/2.jpeg",
+        "alt": "Trenzas método crochet - Imagen 1"
+      },
+      {
+        "id": 3,
+        "src": "/trenzas-metodo-crochet/3.jpeg",
+        "alt": "Trenzas método crochet - Imagen 1"
+      },
+      {
+        "id": 4,
+        "src": "/trenzas-metodo-crochet/4.jpeg",
+        "alt": "Trenzas método crochet - Imagen 1"
+      },
+      {
+        "id": 5,
+        "src": "/trenzas-metodo-crochet/5.jpeg",
+        "alt": "Trenzas método crochet - Imagen 1"
+      },
+      {
+        "id": 6,
+        "src": "/trenzas-metodo-crochet/6.jpeg",
+        "alt": "Trenzas método crochet - Imagen 1"
+      },
+      {
+        "id": 7,
+        "src": "/trenzas-metodo-crochet/7.jpeg",
+        "alt": "Trenzas método crochet - Imagen 1"
+      },
+      {
+        "id": 8,
+        "src": "/trenzas-metodo-crochet/8.jpeg",
+        "alt": "Trenzas método crochet - Imagen 1"
+      }
+    ]
+  },
+  {
+    "category": "unas-pestanas",
+    "title": "Uñas y Pestañas",
+    "images": [
+      {
+        "id": 1,
+        "src": "/unas-pestanas/1.jpeg",
+        "alt": "Uñas y pestañas - Imagen 1"
+      },
+      {
+        "id": 2,
+        "src": "/unas-pestanas/2.jpeg",
+        "alt": "Uñas y pestañas - Imagen 2"
+      }, {
+        "id": 3,
+        "src": "/unas-pestanas/3.jpeg",
+        "alt": "Uñas y pestañas - Imagen 1"
+      },
+      {
+        "id": 4,
+        "src": "/unas-pestanas/4.jpeg",
+        "alt": "Uñas y pestañas - Imagen 2"
+      }
+    ]
+  }
+]

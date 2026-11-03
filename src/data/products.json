@@ -1,0 +1,758 @@
+[
+  {
+    "id": 1665,
+    "name": "Rastas curly crochet",
+    "slug": "rastas-curly-crochet",
+    "price": 195.0,
+    "category": "rastas-curly",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/2176a45f-bb4e-4ea6-81c5-3b5fda580d0d.jpg",
+    "description": "Rastas curly\nEn la última imagen te comparto una información sobre el producto\nAhorita solo disponible en el largo de 22 pulgadas costo de $195\n⭐Se recomienda de 4 a 6 paquetes para una cabeza completa"
+  },
+  {
+    "id": 1666,
+    "name": "Curly onda Hawai 60cm",
+    "slug": "curly-onda-hawai-60cm",
+    "price": 199.0,
+    "category": "rastas-curly",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/74d5dc40-7f4b-4883-927b-72cceccea9c4.jpg",
+    "description": "Curly onda Hawai\nEn la última imagen te comparto las características del cabello\n⭐Se recomienda de 3 a 5 paquetes para una cabeza completa\n⭐En la última imagen te comparto la descripción del cabello"
+  },
+  {
+    "id": 1667,
+    "name": "Extensiones curly sintéticas XL 28",
+    "slug": "extensiones-curly-sintticas-xl-28",
+    "price": 199.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/2400ad03-7b91-443e-b185-ccdcc6ad754d.jpg",
+    "description": "Extensiones curly para aplicación método crochet o micro-trenzas\nCaracterísticas en la última imagen\n⭐ Se recomienda de 4 a 6 paquetes para una cabeza completa\n⭐En la imagen te comparto la descripción del cabello"
+  },
+  {
+    "id": 1668,
+    "name": "Aplicación rastas y curly método crochet",
+    "slug": "aplicacin-rastas-y-curly-mtodo-crochet",
+    "price": 3.0,
+    "category": "aplicacin-rastas-y-curly-método-crochet",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/1def8618-d326-4784-8568-a8231a754dcb.jpg",
+    "description": "Aplicación de extensiónes rastas y curly (chino)\nMétodo crochet\nNos envías mensajito con el día que quieras tu cita, checamos horario y día disponible, para ponerte bella 😊\nLas fotos son de trabajos reales\nLa última imagen cortesía de Trenzas Fashion\n\nPreguntar precio por whatsapp\n\n[waorder phone=\"984 207 2150\" button=\"Reservar cita o cotizar\" message=\"Hola, quiero reservar una cita para Aplicación de extensiónes rastas y curly (chino)\nMétodo crochet\" target=\"yes\"]\n\n&nbsp;"
+  },
+  {
+    "id": 1669,
+    "name": "Aplicación de trenzas africanas en todo el cabello",
+    "slug": "aplicacin-de-trenzas-africanas-en-todo-el-cabello",
+    "price": 3300.0,
+    "category": "trenzas-africanas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/be029d37-6dd0-4236-b3d8-b5d22b3ccdee.jpg",
+    "description": "Trabajamos mediante cita con un anticipo del 20%....\n➡️ Para agilizar tu tiempo , después del anticipo elige el color que guste, Agendamos el día de tu cita, y lo que queda es esperar el gran día para nosotros ponerte más bella de lo que eres y con mucho más glamour, quizás con un look diferente para ti\nCheca las fotos la última es cortesía de Trenzas Fashion\n➡️ Si te animas envíame mensajito y te aclaramos las dudas....\n\n[waorder phone=\"984 207 2150\" button=\"Reservar cita por Whatsapp\" message=\"Hola me interesa el servicio de Aplicación de trenzas africanas en todo el cabello\" target=\"yes\"]"
+  },
+  {
+    "id": 1670,
+    "name": "Pedicure y Manicure",
+    "slug": "pedicure-y-manicure",
+    "price": 0.0,
+    "category": "pedicure-y-manicure",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/6c6e9859cfb81a497bec4f462d1be177.jpg",
+    "description": "Manejamos productos orgánicos\nTe realizamos un pedicure y Manicure spa según tus gustos y necesidades\n\nAparta tu cita por WhatsApp\n\n[waorder phone=\"984 207 2150\" button=\"Ordenar por Whatsapp\" message=\"Hola quiero adquirir el servicio de pedicure y manicure \" target=\"yes\"]\n\n&nbsp;"
+  },
+  {
+    "id": 1671,
+    "name": "Gel de Romero y Sábila",
+    "slug": "gel-de-romero-y-sbila",
+    "price": 50.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/61-Ljvv-QWKOL-AC-SX679.jpg",
+    "description": "Contiene 250g\nPara trenzas africanas, crochet y otros peinados"
+  },
+  {
+    "id": 1672,
+    "name": "Accesorios para trenzas africanas",
+    "slug": "accesorios-para-trenzas-africanas",
+    "price": 20.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-100226.png",
+    "description": "Cada paquete contiene de 15 a 20 pzs\nCada imagen tiene el precio y la cantidad"
+  },
+  {
+    "id": 1673,
+    "name": "Accesorios para trenzas africanas",
+    "slug": "accesorios-para-trenzas-africanas",
+    "price": 20.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-100452.png",
+    "description": "Cada paquete contiene 20 pzs\nCada imagen tiene el precio y la cantidad de accesorios que tiene"
+  },
+  {
+    "id": 1674,
+    "name": "Accesorios para trenzas africanas",
+    "slug": "accesorios-para-trenzas-africanas",
+    "price": 20.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-100740.png",
+    "description": "Cada paquete contiene 20 pzs\nCada imagen tiene el precio y la cantidad de accesorios que tiene"
+  },
+  {
+    "id": 1675,
+    "name": "Pelucas",
+    "slug": "pelucas",
+    "price": 1300.0,
+    "category": "pelucas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/51-PTZtm-Fpa-L-SX466.jpg",
+    "description": "Espectaculares Pelucas de cabello organico\nLargas 28 pulgadas\nSolo 2 colores disponibles 🤩"
+  },
+  {
+    "id": 1676,
+    "name": "Atomizador",
+    "slug": "atomizador",
+    "price": 100.0,
+    "category": "atomizador",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/D-NQ-NP-717559-MLM54880288321-042023-O.webp",
+    "description": "Trabaja con estilo 🤩\nAtomizado, plástico \n capacidad 300ml"
+  },
+  {
+    "id": 1677,
+    "name": "Espuma moldeadora",
+    "slug": "espuma-moldeadora",
+    "price": 100.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-102333.png",
+    "description": "Espuma, para darle una terminación perfecta a las trenzas y curly\nRecomendamos usarla después de cada aplicación, para darle el toque profesional\nLuego secar con un pañuelo y el secador"
+  },
+  {
+    "id": 1678,
+    "name": "Gel de linaza",
+    "slug": "gel-de-linaza",
+    "price": 50.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/61-An-S94pu-L-AC-SX679.jpg",
+    "description": "Contiene 250g\nPara trenzas africanas, crochet y otros peinados"
+  },
+  {
+    "id": 1679,
+    "name": "Keratina libre de formol",
+    "slug": "keratina-libre-de-formol",
+    "price": 1050.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-103002.png",
+    "description": "🤩 *keratina LINEA LIBRE DE FORMOL*🤩\n\nCualquiera de nuestras keratinas *LIBRES DE FORMOL* en presentación de *500ml* en $1050C/U 🤩  \n\n¡Aprovecha ! ✨😊"
+  },
+  {
+    "id": 1680,
+    "name": "Extensiones con clip",
+    "slug": "extensiones-con-clip",
+    "price": 2000.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-103535.png",
+    "description": "En la primera imagen te comparto una descripción del producto\nEl precio con gusto te lo comparto mediante mensaje\n\nSolo tenemos disponible en 20\"\nContiene  20 pz/ pesa 50 g/ mide 20 pulgadas / costo ➡️ $ 2000"
+  },
+  {
+    "id": 1681,
+    "name": "Cola de caballo sintética",
+    "slug": "cola-de-caballo-sinttica",
+    "price": 380.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-103818.png",
+    "description": "Cola de caballo, cabello sintético largo, resistente a altas temperaturas"
+  },
+  {
+    "id": 1682,
+    "name": "Caja de accesorios para trenzas 200 pzs",
+    "slug": "caja-de-accesorios-para-trenzas-200-pzs",
+    "price": 290.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-104115.png",
+    "description": "200 pzs mixtas cada caja contiene 200 pzs en la segunda imágen puedes checar la cantidad por cada diseño"
+  },
+  {
+    "id": 1683,
+    "name": "Pestañas postizas 3D",
+    "slug": "pestaas-postizas-3d",
+    "price": 35.0,
+    "category": "pestañas-postizas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-07-104453.png",
+    "description": "Manejamos 11 diseños diferentes de pestañas 3D\nElige por número para hacer el pedido, luego confirmamos disponibilidad"
+  },
+  {
+    "id": 1684,
+    "name": "Pelucas de cabello 100 % natural",
+    "slug": "pelucas-de-cabello-100-natural",
+    "price": 0.0,
+    "category": "pelucas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/71-VTUIXQu-TL-SX466.jpg",
+    "description": "Estas pelucas, las puedes lavar, planchar y rizar\nSoportan altas temperaturas\nSe recomienda lavarlas con mucha delicadeza, poner vinagre de manzana al agua tibia, luego lavar con shampoo y acondicionador, no usar aceites\n⭐El precio a partir de 6mil pesos varia según el largo\n\nPregunta el precio por WhatsApp\n\n[waorder phone=\"984 207 2150\" button=\"Ordenar por Whatsapp\" message=\"Hola quiero adquirir Pelucas de cabello 100 % natural\" target=\"yes\"]"
+  },
+  {
+    "id": 1685,
+    "name": "Accesorios para trenzas africanas bolsas con 30 pzs",
+    "slug": "accesorios-para-trenzas-africanas-bolsas-con-30-pzs",
+    "price": 45.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-191340.png",
+    "description": "Cada bolsa contiene 30 pzs doradas, no se pueden mezclar"
+  },
+  {
+    "id": 1686,
+    "name": "Bolsas de accesorios para trenzas africanas y dreaclocks",
+    "slug": "bolsas-de-accesorios-para-trenzas-africanas-y-dreaclocks",
+    "price": 80.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-191656.png",
+    "description": "Accesorios para trenzas africanas y dreaclocks"
+  },
+  {
+    "id": 1687,
+    "name": "Bolsas de accesorios para trenzas africanas y dreaclocks",
+    "slug": "bolsas-de-accesorios-para-trenzas-africanas-y-dreaclocks",
+    "price": 60.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-192030.png",
+    "description": "Bolsas con 50 pzs de accesorios para trenzas africanas, no podemos mezclar dorado con plateado"
+  },
+  {
+    "id": 1688,
+    "name": "Bolsas con accesorios para trenzas y rastas",
+    "slug": "bolsas-con-accesorios-para-trenzas-y-rastas",
+    "price": 50.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-192243.png",
+    "description": "Bolsas con 30 pzs de accesorios manejamos dorados y plateados, no podemos mezclar"
+  },
+  {
+    "id": 1689,
+    "name": "Kit completo para empezar a aplicar extensiones",
+    "slug": "kit-completo-para-empezar-a-aplicar-extensiones",
+    "price": 350.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/D-NQ-NP-634063-MLM49932552636-052022-O.webp",
+    "description": "Cada kit viene con todos los accesorios que aparecen en las imágenes 400 pcs  disponible para entrega inmediata"
+  },
+  {
+    "id": 1690,
+    "name": "Clips para extensiones de cabello natural",
+    "slug": "clips-para-extensiones-de-cabello-natural",
+    "price": 10.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/61klbp7n-IL-AC-SX679.jpg",
+    "description": "Adapta tus extensiones con clips\nTenemos bolsitas con la cantidad que tu elijas desde una pz hasta 10 pzs"
+  },
+  {
+    "id": 1691,
+    "name": "Bolsas con accesorios para trenzas africanas y dreaclocks (rastas) DORADAS",
+    "slug": "bolsas-con-accesorios-para-trenzas-africanas-y-dreaclocks-rastas-doradas",
+    "price": 135.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-193326.png",
+    "description": "Bolsa con 80 pzs, todas doradas \nCon 4 diseños diferentes"
+  },
+  {
+    "id": 1692,
+    "name": "Bolsa con piezas de accesorios para trenzas y rastas (dreadlocks) PLATEADAS",
+    "slug": "bolsa-con-piezas-de-accesorios-para-trenzas-y-rastas-dreadlocks-plateadas",
+    "price": 135.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-193451.png",
+    "description": "Bolsa con 80 pzs, todas plateadas\nCon 4 diseños diferentes"
+  },
+  {
+    "id": 1693,
+    "name": "Ligas para trenzas africanas",
+    "slug": "ligas-para-trenzas-africanas",
+    "price": 55.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-193834.png",
+    "description": "Cada paquete contiene 300 pzs\nLigas para las puntas de tus trenzas"
+  },
+  {
+    "id": 1694,
+    "name": "Ligas para trenzas africanas",
+    "slug": "ligas-para-trenzas-africanas",
+    "price": 55.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/460ffe6a-615a-48d3-a0cf-e87a9803d4ee-800x800-1.webp",
+    "description": "Cada paquete contiene 300 pzs\nLigas para las puntas de tus trenzas"
+  },
+  {
+    "id": 1695,
+    "name": "Bolsa de accesorios para trenzas africanas",
+    "slug": "bolsa-de-accesorios-para-trenzas-africanas",
+    "price": 250.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-194550.png",
+    "description": "Cada bolsita contiene 70 accesorios mixtos, no se vende por separado, son exactamente como mostramos en la imagen, con la misma cantidad"
+  },
+  {
+    "id": 1696,
+    "name": "Trenzas sintética kanekalon un tono",
+    "slug": "trenzas-sinttica-kanekalon-un-tono",
+    "price": 100.0,
+    "category": "trenzas-kanekalon",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-194807.png",
+    "description": "Extensiones  kanekalon, soporta altas temperaturas, son reutilizable \n⭐se recomienda de 4 a 6 paquetes para trenzas africanas en todo el cabello\n⭐Se recomienda de 1 a 2 paquetes para trenzas boxeadoras (peinado de 2 trenzas)\n⭐ Pesa 100g\n⭐Mide 60cm(24\")"
+  },
+  {
+    "id": 1697,
+    "name": "Trenzas sintéticas kanekalon",
+    "slug": "trenzas-sintticas-kanekalon",
+    "price": 130.0,
+    "category": "trenzas-kanekalon",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-09-194948.png",
+    "description": "Trenzas Kanekalon Extra Largas (reutilizable) \n⭐ Cada trenza pesa 165 g \n⭐Cada trenza mide 82 \"\n⭐Se recomienda de 4 a 6 paquetes para trenzas africanas en todo el cabello\n⭐Se recomienda de 1 a 2 paquetes para trenzas boxeadoras (2 trenzas)"
+  },
+  {
+    "id": 1698,
+    "name": "Cabello kanekalon pre-estirado (Pre-stretched)",
+    "slug": "cabello-kanekalon-pre-estirado-pre-stretched",
+    "price": 330.0,
+    "category": "extensiones-kanekalon",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-111210.png",
+    "description": "Paquetes de 3 pzs tiene un precio de 330 pesos \nCada coleta mide 26 pulgadas\nPesa 110g\nEstán disponibles en 4 colores \nA19\n2#\n4# \n30#"
+  },
+  {
+    "id": 1699,
+    "name": "Trenzas sintéticas kanekalon 2,3,4 tono",
+    "slug": "trenzas-sintticas-kanekalon-234-tono",
+    "price": 130.0,
+    "category": "trenzas-kanekalon",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-111619.png",
+    "description": "Extensiones  kanekalon, soporta altas temperaturas, se puede reutilizar\n⭐se recomienda de 4 a 6 paquetes para trenzas africanas en todo el cabello\n⭐Se recomienda de 1 a 2 paquetes para trenzas boxeadoras (peinado de 2 trenzas)\n⭐ Pesa 100g\n⭐Mide 60cm(24\")"
+  },
+  {
+    "id": 1700,
+    "name": "Trenzas sintéticas kanekalon 3 tonos",
+    "slug": "trenzas-sintticas-kanekalon-3-tonos",
+    "price": 130.0,
+    "category": "trenzas-kanekalon",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-112030.png",
+    "description": "Extensiones  kanekalon, soporta altas temperaturas, se puede reutilizar\n⭐se recomienda de 4 a 6 paquetes para trenzas africanas en todo el cabello\n⭐Se recomienda de 1 a 2 paquetes para trenzas boxeadoras (peinado de 2 trenzas)\n⭐ Pesa 100g\n⭐Mide 60cm(24\")"
+  },
+  {
+    "id": 1701,
+    "name": "Trenzas sintéticas kanekalon 4 y 5 tonos",
+    "slug": "trenzas-sintticas-kanekalon-4-y-5-tonos",
+    "price": 130.0,
+    "category": "trenzas-kanekalon",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-112313.png",
+    "description": "Extensiones  kanekalon, soporta altas temperaturas, se puede reutilizar\n⭐se recomienda de 4 a 6 paquetes para trenzas africanas en todo el cabello\n⭐Se recomienda de 1 a 2 paquetes para trenzas boxeadoras (peinado de 2 trenzas)\n⭐ Pesa 100g\n⭐Mide 60cm(24\")"
+  },
+  {
+    "id": 1702,
+    "name": "Bolsitas contiene 100pzs",
+    "slug": "bolsitas-contiene-100pzs",
+    "price": 120.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-113047.png",
+    "description": "Accesorios para trenzas africanas, cada bolsita contiene 100 pzs\nTodos son plateados, este estilo no se puede mezclar"
+  },
+  {
+    "id": 1703,
+    "name": "Bolsas de accesorios con 100 pzs",
+    "slug": "bolsas-de-accesorios-con-100-pzs",
+    "price": 120.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-113227.png",
+    "description": "Cada bolsa tiene 100 piezas\nEste estilo no se puede mezclar con otro"
+  },
+  {
+    "id": 1704,
+    "name": "Bolsas de accesorios con 100 pzs",
+    "slug": "bolsas-de-accesorios-con-100-pzs",
+    "price": 120.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-113712.png",
+    "description": "Cada bolsa contiene 100 pzs por el precio señalando 👉 $120 \neste estilo no se puede mezclar"
+  },
+  {
+    "id": 1705,
+    "name": "Bolsa con 120 pzs Accesorio para trenzas",
+    "slug": "bolsa-con-120-pzs-accesorio-para-trenzas",
+    "price": 140.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-115154.png",
+    "description": "Una bolsa contiene 6  estilo diferente\n20 pzs de cada uno en total son 120 pzs por el precio señalando 👉 $140"
+  },
+  {
+    "id": 1706,
+    "name": "Hilo elastico para extensiones",
+    "slug": "hilo-elastico-para-extensiones",
+    "price": 150.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-115438.png",
+    "description": "En la última imagen te comparto una descripción del producto\nColores disponibles : Blanco, Negro, Café"
+  },
+  {
+    "id": 1707,
+    "name": "Cabeza de maniquí (cabezote) leer descripción",
+    "slug": "cabeza-de-maniqu-cabezote-leer-descripcin",
+    "price": 850.0,
+    "category": "cabeza-de-maniquí",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/51wgf-Yb-Qo-XL-AC-SX679.jpg",
+    "description": "Práctica peinados con nuestras Cabezas maniquí, traen soporte , puedes checar 5 imágenes publicadas, el precio es por cada una\nMaterial : sintético\nLargo : 60cm (24\")"
+  },
+  {
+    "id": 1708,
+    "name": "Cabeza maniquí (cabezote) leer descripción",
+    "slug": "cabeza-maniqu-cabezote-leer-descripcin",
+    "price": 850.0,
+    "category": "cabeza-de-maniquí",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-120516.png",
+    "description": "Práctica peinados con nuestras Cabezas  maniquí con soporte, puedes checar 5 imágenes publicadas \nMaterial : sintético\nLargo :60cm (24\")"
+  },
+  {
+    "id": 1709,
+    "name": "Pelucas 100% cabello natural",
+    "slug": "pelucas-100-cabello-natural",
+    "price": 2500.0,
+    "category": "pelucas-cabello-natural",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-120757.png",
+    "description": "Estas pelucas maravillosas , las puedes lavar, planchar y rizarEstas pelucas, las puedes lavar, planchar y rizar\nSoportan altas temperaturas\nSe recomienda lavarlas con mucha delicadeza, poner vinagre de manzana al agua tibia, luego lavar con shampoo\n y acondicionador, no usar aceites \n\nTiempo de duración, más de 2 años"
+  },
+  {
+    "id": 1710,
+    "name": "Extensiones 100 %naturales",
+    "slug": "extensiones-100-naturales",
+    "price": 0.0,
+    "category": "extensiones-naturales",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-121043.png",
+    "description": "no incluye aplicacion\n(el costo de la aplicación es independiente)\nManejamos diferentes largos y tonos\n\nPregunta por los precios y existencia\n\n[waorder phone=\"984 207 2150\" button=\"Ordenar por Whatsapp\" message=\"Hola quiero adquirir extensiones 100 %naturales\" target=\"yes\"]"
+  },
+  {
+    "id": 1711,
+    "name": "Extensiones humanas, sin procesar",
+    "slug": "extensiones-humanas-sin-procesar",
+    "price": 0.0,
+    "category": "extensiones-naturales",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-122024.png",
+    "description": "En las 2 últimas imágenes te comparto el precio solo del cabello, no incluye aplicacion (el costo de aplicación es independiente)\nEsta calidad de extensiónes es 100% humanas, es un cabello limpio, parejo de punta a punta, sin procesar\n\nNo están en cortinas es en puño\nExtensiones con garantía hasta de 4 años\n\nPregunta por el precio y existencia\n\n[waorder phone=\"984 207 2150\" button=\"Ordenar por Whatsapp\" message=\"Hola quiero adquirir Extensiones humanas, sin procesar\" target=\"yes\"]"
+  },
+  {
+    "id": 1712,
+    "name": "Cola de caballo extra largas",
+    "slug": "cola-de-caballo-extra-largas",
+    "price": 380.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-125318.png",
+    "description": "Cola de caballo XL 32 pulgadas cabello sintético"
+  },
+  {
+    "id": 1713,
+    "name": "Bolitas para decoración de trenzas",
+    "slug": "bolitas-para-decoracin-de-trenzas",
+    "price": 35.0,
+    "category": "accesorios-para-trenzas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-11-130008.png",
+    "description": "Cada imagen tiene el precio y la cantidad que contiene de cada bolsa"
+  },
+  {
+    "id": 1714,
+    "name": "Peluca Afro 16\"",
+    "slug": "peluca-afro-16",
+    "price": 1100.0,
+    "category": "pelucas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/289e44b4-6521-44c0-998e-de812d6dff36.jpg",
+    "description": "Peluca Afro sintéticas\nSoporta altas temperaturas\nRecomendaciones para su uso: Lavar con agua tibia y vinagre, usar shampoo y acondicionador \n no aplicar aceites"
+  },
+  {
+    "id": 1715,
+    "name": "Pelucas Afro 14\"",
+    "slug": "pelucas-afro-14",
+    "price": 1000.0,
+    "category": "pelucas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/075f5a32-01a9-4ac1-9a38-a40587546f6b.jpg",
+    "description": "Peluca Afro sintéticas\nSoporta altas temperaturas\nRecomendaciones para su uso: Lavar con agua tibia y vinagre, usar shampoo y acondicionador \n no aplicar aceites"
+  },
+  {
+    "id": 1716,
+    "name": "Peluca Afro 12\"",
+    "slug": "peluca-afro-12",
+    "price": 950.0,
+    "category": "pelucas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/09c5dc48-6d30-477c-9bc0-6e4f209e62dc.jpg",
+    "description": "Peluca Afro sintéticas\nSoporta altas temperaturas\nRecomendaciones para su uso: Lavar con agua tibia y vinagre, usar shampoo y acondicionador \n no aplicar aceites"
+  },
+  {
+    "id": 1717,
+    "name": "Crema relax",
+    "slug": "crema-relax",
+    "price": 200.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/37289382-7c71-4006-bd06-cfcae8a8ac52.jpg",
+    "description": "Crema para cabello Afro\nAlacia tu cabello como una keratina\nTiempo de duración hasta 6 meses para cabello ondulado\nTiempo de duración \n3 meses para cabello Afro\nContiene :\n 1 crema activadora , 1 crema relax \n1 Shampoo, 1 acondicionador"
+  },
+  {
+    "id": 1718,
+    "name": "Passion twist",
+    "slug": "passion-twist",
+    "price": 180.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/0852b3a2-4a20-4a24-865e-357e8b01e3f9.jpg",
+    "description": "En la última imagen te comparto una descripción del producto"
+  },
+  {
+    "id": 1719,
+    "name": "Maquina para aplicación de extensiónes naturales",
+    "slug": "maquina-para-aplicacin-de-extensines-naturales",
+    "price": 1.0,
+    "category": "maquina-para-aplicación-de-extensiónes",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/74db00d1-ca84-43fd-86d3-a572558946e1.jpg",
+    "description": ""
+  },
+  {
+    "id": 1720,
+    "name": "Extensiones sintéticas curly 8\"",
+    "slug": "extensiones-sintticas-curly-8",
+    "price": 220.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/e0e19f89-2510-4959-aa74-75fdbfcb7be1.jpg",
+    "description": "Descripción en la última imagen"
+  },
+  {
+    "id": 1721,
+    "name": "Pegamento para pestañas y extensiones naturales",
+    "slug": "pegamento-para-pestaas-y-extensiones-naturales",
+    "price": 150.0,
+    "category": "pegamento-para-pestañas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/25d5d731-2b9d-4c93-b14f-684501b9736c.jpg",
+    "description": ""
+  },
+  {
+    "id": 1722,
+    "name": "Trenzas nocturnas",
+    "slug": "trenzas-nocturnas",
+    "price": 130.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/214368ed-09dd-4ffa-81f3-340b253302e4.jpg",
+    "description": "En la  imagen te comparto una descripción del producto"
+  },
+  {
+    "id": 1723,
+    "name": "Gancho (aguja) para aplicación crochet",
+    "slug": "gancho-aguja-para-aplicacin-crochet",
+    "price": 70.0,
+    "category": "accesorios",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/194b106d-719b-4404-93f4-a374aeb3fdfe.jpg",
+    "description": ""
+  },
+  {
+    "id": 1724,
+    "name": "Kit para extensiones naturales",
+    "slug": "kit-para-extensiones-naturales",
+    "price": 350.0,
+    "category": "accesorios",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/2d0e5d3c-08f4-4780-9b08-f8c8c1d2ff2c.jpg",
+    "description": "1500 grapas\n2 agujas\n1 pinza"
+  },
+  {
+    "id": 1725,
+    "name": "Reloj pulsera para estilista",
+    "slug": "reloj-pulsera-para-estilista",
+    "price": 170.0,
+    "category": "accesorios",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/34220522-3119-47f3-9255-718becb5715b.jpg",
+    "description": "En la última imagen te comparto una descripción del producto"
+  },
+  {
+    "id": 1726,
+    "name": "Peine con punta de acero",
+    "slug": "peine-con-punta-de-acero",
+    "price": 25.0,
+    "category": "accesorios",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/723d7073-fe3e-472d-85b1-a8fd16c58c3c.jpg",
+    "description": "En la segunda imágen te comparto la descripción del producto"
+  },
+  {
+    "id": 1727,
+    "name": "Ocean wave",
+    "slug": "ocean-wave",
+    "price": 150.0,
+    "category": "accesorios",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/1100e8cc-a4c9-492e-9c94-84de41df32e6.jpg",
+    "description": "En la segunda imagen, te comparto la descripción de las extensiones"
+  },
+  {
+    "id": 1728,
+    "name": "Pelucas resistente a altas temperaturas",
+    "slug": "pelucas-resistente-a-altas-temperaturas",
+    "price": 950.0,
+    "category": "pelucas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/04d1dea2-ad2b-4908-a307-99e01f8002bb.jpg",
+    "description": "Estas pelucas, las puedes lavar, planchar y rizar\nSoportan altas temperaturas\nSe recomienda lavarlas con mucha delicadeza, poner vinagre de manzana al agua tibia, luego lavar con shampoo y acondicionador, no usar aceites"
+  },
+  {
+    "id": 1729,
+    "name": "Gel para controlar los bordes de tu cabello",
+    "slug": "gel-para-controlar-los-bordes-de-tu-cabello",
+    "price": 200.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/fcf406c6-3052-4043-bc08-0da01b305645.jpg",
+    "description": "Funciona perfecto para trenzas africana, cuida los cabellos rebeldes que se levantan, hidrata, da brillo y nutre\nNo es gel, tampoco cera, pero funciona similar"
+  },
+  {
+    "id": 1730,
+    "name": "Tratamiento capilar Organico",
+    "slug": "tratamiento-capilar-organico",
+    "price": 300.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/606537be-a653-4a14-bd64-b4a085cfa32f.jpg",
+    "description": "Este tratamiento Ayuda al crecimiento de tu cabello por la keratina, extracto de coco, aceite de oliva y mayonesa que contiene, deja tu cabello suave y sedoso \nComo usar?  Usar como uso diario\nContiene : 500ml"
+  },
+  {
+    "id": 1731,
+    "name": "Aceite",
+    "slug": "aceite",
+    "price": 200.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/b0a6a611-0a8e-4622-be8c-1c5ea8699f7c.jpg",
+    "description": "Para  tu cabello después de retirar trenzas y curly, este es el aceite que te recomendamos\nHidratar y nutre tu cabello, fortalece tu cuero cabelludo por la keratina y extracto de aguacate \nContiene : 180 ml"
+  },
+  {
+    "id": 1732,
+    "name": "Gel activador",
+    "slug": "gel-activador",
+    "price": 300.0,
+    "category": "productos-para-el-cabello",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/1df9e3e0-7f49-4b60-a8a7-eed9a46ed5b8.jpg",
+    "description": "Gel activador\nFunciona perfecto para trenzas africana y  para mantener tu peinado, fuerte, potente pero a la vez tiene una textura delicada, sin fragancia\nContiene :16oz/456.3g"
+  },
+  {
+    "id": 1733,
+    "name": "Extensiones naturales Rubia 100%",
+    "slug": "extensiones-naturales-rubia-100",
+    "price": 0.0,
+    "category": "extensiones-naturales",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/21d7197e-57d2-438b-8530-5e1a4394e99e.jpg",
+    "description": "En la segunda imágen te comparto los precios, según el largo\n\nPregunta por WhatsApp sobre los precios y existencia\n\n[waorder phone=\"984 207 2150\" button=\"Ordenar por Whatsapp\" message=\"Hola quiero adquirir las Extensiones naturales Rubia 100%\" target=\"yes\"]"
+  },
+  {
+    "id": 1734,
+    "name": "Extensiones faux locs Extra largas 36\"",
+    "slug": "extensiones-faux-locs-extra-largas-36",
+    "price": 250.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/0e7cf390-bb8c-42f8-88af-67fa64c45288.jpg",
+    "description": "Extra largas las extensiones rastas (faux locs)\nColores disponibles en la última imagen\n⭐Cada paquete contiene 21 pz\n⭐Mide 36 \"\n⭐Se recomienda de 4 a 6 paquetes para una cabeza completa"
+  },
+  {
+    "id": 1735,
+    "name": "Curly Pre-passion twist (chino)",
+    "slug": "curly-pre-passion-twist-chino",
+    "price": 180.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/d0440e53-7cea-4b99-a4f5-d6c14d47023c.jpg",
+    "description": "Extensiones curly para aplicación método crochet, passion twist o micro-trenzas\n⭐Peso :85 g\n⭐Mide :18\"\n⭐Se recomienda de 4 a 6 paquetes para una cabeza completa\n⭐En la última imagen te comparto una descripción del cabello"
+  },
+  {
+    "id": 1736,
+    "name": "Trenzas sintéticas económicas",
+    "slug": "trenzas-sintticas-econmicas",
+    "price": 35.0,
+    "category": "trenzas-sintéticas-económicas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/6768add4-942e-4b36-964d-ed5ce137629b.jpg",
+    "description": "En la compra mayor de 50 piezas a 25 pesos cada una\nEn la compra menor de 50 piezas a 35 pesos cada trenza\n⭐Cada trenza pesa 90g mide 22\"\n⭐Manejamos más de 100 colores, preguntar por disponibilidad\n⭐Se recomienda para trenzas boxeadoras de 2 a 4 paquetes\n⭐Se recomienda para trenzas africanas en todo el cabello de 4 a 6 paquetes\n\n[waorder phone=\"984 207 2150\" button=\"Preguntar disponibilidad por Whatsapp\" message=\"Hola me interesa Trenzas sintéticas económicas, ¿que colores tiene disponible?\" target=\"yes\"]"
+  },
+  {
+    "id": 1737,
+    "name": "Trenzas sintéticas económicas",
+    "slug": "trenzas-sintticas-econmicas",
+    "price": 35.0,
+    "category": "trenzas-sintéticas-económicas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/51333c0c-3a37-4bba-a0f7-91506cc159bc.jpg",
+    "description": "En la compra mayor de 50 piezas a 25 pesos cada una\nEn la compra menor de 50 piezas a 35 pesos cada trenza\n⭐Cada trenza pesa 90g mide 22\"\n⭐Manejamos más de 100 colores, preguntar por disponibilidad\n⭐Se recomienda para trenzas boxeadoras de 2 a 4 paquetes\n⭐Se recomienda para trenzas africanas en todo el cabello de 4 a 6 paquetes\n\n[waorder phone=\"984 207 2150\" button=\"Preguntar disponibilidad por Whatsapp\" message=\"Hola me interesa Trenzas sintéticas económicas, ¿que colores tiene disponible?\" target=\"yes\"]"
+  },
+  {
+    "id": 1738,
+    "name": "Trenzas sintéticas económicas",
+    "slug": "trenzas-sintticas-econmicas",
+    "price": 35.0,
+    "category": "trenzas-sintéticas-económicas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/0d80d8e6-ee0e-4139-ab3d-c55ad4eaec68.jpg",
+    "description": "En la compra mayor de 50 piezas a 25 pesos cada una\nEn la compra menor de 50 piezas a 35 pesos cada trenza\n⭐Cada trenza pesa 90g mide 22\"\n⭐Manejamos más de 100 colores, preguntar por disponibilidad\n⭐Se recomienda para trenzas boxeadoras de 2 a 4 paquetes\n⭐Se recomienda para trenzas africanas en todo el cabello de 4 a 6 paquetes\n\n[waorder phone=\"984 207 2150\" button=\"Preguntar disponibilidad por Whatsapp\" message=\"Hola me interesa Trenzas sintéticas económicas, ¿que colores tiene disponible?\" target=\"yes\"]"
+  },
+  {
+    "id": 1739,
+    "name": "Gorros",
+    "slug": "gorros",
+    "price": 100.0,
+    "category": "gorros",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/17e4281c-869f-4b6e-891d-211b94836893.jpg",
+    "description": "Estos gorros te ayudan a cuidar de tus peinados cuando te aplicas trenzas, curly o extensiones naturales"
+  },
+  {
+    "id": 1740,
+    "name": "Extensiones sintéticas Curly onda suave 18\"",
+    "slug": "extensiones-sintticas-curly-onda-suave-18",
+    "price": 180.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/264eb3a8-4023-4824-9fb6-91cd7b636f29.jpg",
+    "description": "En la última imagen te comparto una descripción del cabello\n⭐Se recomienda de 4 a 6 paquetes para una cabeza completa"
+  },
+  {
+    "id": 1741,
+    "name": "Durag",
+    "slug": "durag",
+    "price": 70.0,
+    "category": "pañuelos",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/1d15324a-4719-4b35-82ed-c0e86b819747.jpg",
+    "description": ""
+  },
+  {
+    "id": 1742,
+    "name": "Durag",
+    "slug": "durag",
+    "price": 70.0,
+    "category": "pañuelos",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/122bad57-4289-4893-ade3-32d1ab490a82.jpg",
+    "description": ""
+  },
+  {
+    "id": 1743,
+    "name": "Durag",
+    "slug": "durag",
+    "price": 70.0,
+    "category": "pañuelos",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/30313fed-d6ec-4a86-ab96-21155c0e7e9e.jpg",
+    "description": ""
+  },
+  {
+    "id": 1744,
+    "name": "Rasta injerto 8\"",
+    "slug": "rasta-injerto-8",
+    "price": 40.0,
+    "category": "rastas",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/a26f1d6d-c264-4c36-8357-2eb933023b5f.jpg",
+    "description": "En la última imagen te comparto la descripción del producto\nEl precio no es por paquete es por cada rasta\n40 pesos cada una\n\nNo tiene recomendaciones para la cantidad aplicada ya que depende del tu gusto y estilo"
+  },
+  {
+    "id": 1745,
+    "name": "Rastas curly crochet 16\"",
+    "slug": "rastas-curly-crochet-16",
+    "price": 180.0,
+    "category": "rastas-curly",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/0bb8d10e-8689-40bc-ae60-a11ceb23d111.jpg",
+    "description": "Cada paquete\n pesa: 85g\nMide : 16 pulgadas\nContiene : 24 pzs\nSe recomienda para de 4 a 6 paquetes para una cabeza completa"
+  },
+  {
+    "id": 1746,
+    "name": "Extensiones sintéticas curly XL 30 pulgadas",
+    "slug": "extensiones-sintticas-curly-xl-30-pulgadas",
+    "price": 195.0,
+    "category": "extensiones",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/416e1db6-75cb-49ad-8f3e-e6244d1f002c.jpg",
+    "description": "Extensiones curly para aplicación método crochet o micro-trenzas\nCaracterísticas en la última imagen 🙂\n⭐Se recomienda de 4 a 6 paquetes para una cabeza completa"
+  },
+  {
+    "id": 1747,
+    "name": "Rastas (faux locs) 24\"(60cm)",
+    "slug": "rastas-faux-locs-2460cm",
+    "price": 195.0,
+    "category": "rastas-(faux-locs)",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/8addb76a-32c0-4407-a862-4003f5b168b5.jpg",
+    "description": "Faux locs de 24 pulgadas para aplicación método crochet, en la última imagen te comparto la descripción\n⭐Se recomienda de 4 a 6 paquetes para una cabeza completa, dependiendo el estilo que quieras"
+  },
+  {
+    "id": 1748,
+    "name": "Afro kinky",
+    "slug": "afro-kinky",
+    "price": 180.0,
+    "category": "afro",
+    "image": "https://trenzasfashion-com-828000.hostingersite.com/wp-content/uploads/2024/03/03a038b7-4ddd-498b-b50e-76e46de9af15.jpg",
+    "description": "En la última imagen te comparto una\ninformación del cabello Afro kinky\n⭐Se recomienda de 4 a 6 paquetes para trenzas una cabeza dependiendo el estilo que quieras"
+  }
+]
