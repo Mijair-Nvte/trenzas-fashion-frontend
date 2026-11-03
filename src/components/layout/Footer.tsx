@@ -91,7 +91,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-zinc-800 py-6 flex flex-col sm:flex-row justify-between items-center gap-4 text-center sm:text-left">
           <p className="text-xs text-gray-500">
-            © {new Date().getFullYear()} TrenzasFashion. Todos los derechos reservados.
+            ©2026 TrenzasFashion. Todos los derechos reservados.
           </p>
 
           <p className="text-xs text-gray-400 font-medium tracking-wide">
